@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: crypto_etl
+Version: 0.1
+Requires-Dist: requests
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: sqlite3
+Dynamic: requires-dist
